@@ -1,0 +1,5 @@
+{
+  "name": "오병이어 - AI 주식 분석",
+  "description": "A 5-step AI-powered investment analysis application using Gemini models to evaluate financials, market sentiment, peer comparison, legendary investor perspectives, and final strategy formulation.",
+  "requestFramePermissions": []
+}
